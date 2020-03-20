@@ -1,11 +1,11 @@
 ![MONOMANIAC](https://mksd.jp/MONOMANIACMD.gif "SAMPLE")
 
 # ■ はじめに
-『Slackside-Bold』はManiackers Designが作成し、Google Fontsに提供した新作フォントです。
+『Slackside-Regular』はManiackers Designが作成し、Google Fontsに提供した新作フォントです。
 今後予告なく、バージョンアップしていく可能性あります。
 
 
-# ■『Monomaniac-Bold』について
+# ■『Monomaniac-Regular』について
 Google Fontsの為に完全新作でデザインしたボールドな丸ゴシックです。
 全てのコーナーは角丸加工されています。
 縦書きを推奨するコンデンスドタイプ。
@@ -35,7 +35,7 @@ font LAB / Fontographer 5.2J
 
 
 # ■ 禁止事項
-・作成した派生フォントの名前に「Slackside-Bold」の文字を含めること。
+・作成した派生フォントの名前に「Slackside-Regular」の文字を含めること。
 ・「SIL Open Font License Version 1.1」以外のライセンスで再配布すること。
 ・フォントファイル自体を単体で販売すること。
 
