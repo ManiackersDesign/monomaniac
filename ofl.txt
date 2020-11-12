@@ -1,4 +1,4 @@
-Copyright 2020 Maniackers Design ( https://github.com/ManiackersDesign/monomaniac )
+Copyright 2020 The Monomaniac Project Authors (https://github.com/ManiackersDesign/monomaniac), all rights reserved.
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.0.
