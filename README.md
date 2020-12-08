@@ -5,6 +5,10 @@
 今後予告なく、バージョンアップしていく可能性あります。
 
 
+# Monomaniac
+Newly designed only for Google Fonts: bold rounded Japanese Sans Serif font. All the corners are roundly designed. This font is designed condensed letterform to best-fit for vertical typesetting.
+
+
 # ■『Monomaniac-Regular』について
 Google Fontsの為に完全新作でデザインしたボールドな丸ゴシックです。
 全てのコーナーは角丸加工されています。
@@ -45,8 +49,8 @@ font LAB / Fontographer 5.2J
 
 
 # ■ 更新履歴
+2020年12月8日 バージョン 1.0（英文の説明を追加）
 2020年3月21日 バージョン 1.0（名称変更のみ）
-
 2019年12月31日 バージョン 1.0
 
 
